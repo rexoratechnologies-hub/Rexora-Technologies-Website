@@ -1,0 +1,1 @@
+- [GitHub sync authentication](github-sync-auth.md) — HTTPS Git CLI auth may fail even when the attached GitHub connector can publish refs safely.
